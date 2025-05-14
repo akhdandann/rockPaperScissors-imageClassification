@@ -1,0 +1,38 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Colab files
+*.ipynb_save
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Downloaded dataset files
+*.zip
+rockpaperscissors/
+
+# Model weights
+*.h5
+*.pb
+*.ckpt
+*.tflite
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# VSCode/IDE settings
+.vscode/
+.idea/
